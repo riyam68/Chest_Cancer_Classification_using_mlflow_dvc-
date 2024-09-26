@@ -26,13 +26,6 @@ list_of_files = [".github/workflows/.gitkeep",f"src/cnnClassifier/__init__.py",
 
 ]
 
-# for filepath in list_of_files:
-#     filepath = Path(filepath)
-#     filedir, filename = os.path.split(filepath)
-#     print(filepath)
-
-# s ='yes'
-
 
 
 for filepath in list_of_files:
