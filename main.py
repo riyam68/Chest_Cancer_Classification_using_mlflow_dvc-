@@ -10,8 +10,8 @@ from cnnClassifier.pipeline.stage_04_model_evaluation import EvaluationPipeline
 
 
 os.environ["MLFLOW_TRACKING_URI"] = "https://dagshub.com/USERNAME/Chest_Cancer_Classification_using_mlflow_dvc-.mlflow"
-os.environ["MLFLOW_TRACKING_USERNAME"] = "USERNAME" 
-os.environ["MLFLOW_TRACKING_PASSWORD"] = "ACCESS TOKEN HERE" 
+os.environ["MLFLOW_TRACKING_USERNAME"] = "riyamsarfaraz " 
+os.environ["MLFLOW_TRACKING_PASSWORD"] = "8e70df7d48f28563d1167ac1d3a96517e6fdb59d" 
 
 
 STAGE_NAME = "Data Ingestion Stage"
